@@ -74,7 +74,7 @@ function LoginForm() {
                     Olá,
                 </h1>
                 <p className={styles.subHeading}>
-                    Faça login e comece sua jornada.
+                    Faça login
                 </p>
 
                 {/* Success Message */}
